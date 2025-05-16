@@ -19,3 +19,4 @@ Microsoft Excel (PivotTables, PivotCharts, Slicers)
 Data Cleaning Techniques (handling missing values, duplicates, formatting)
 Basic Data Modeling for dashboard structuring
 
+![Dashboard copy](https://github.com/user-attachments/assets/e6d05ebb-3317-440c-8119-2493ab7a78a5)
